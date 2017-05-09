@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\c#\cash_machine\cash_machine\cash_machine\bin\Debug\cash_machine.exe.config
+C:\Users\User\Desktop\c#\cash_machine\cash_machine\cash_machine\bin\Debug\cash_machine.exe
+C:\Users\User\Desktop\c#\cash_machine\cash_machine\cash_machine\bin\Debug\cash_machine.pdb
+C:\Users\User\Desktop\c#\cash_machine\cash_machine\cash_machine\obj\Debug\cash_machine.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\c#\cash_machine\cash_machine\cash_machine\obj\Debug\cash_machine.exe
+C:\Users\User\Desktop\c#\cash_machine\cash_machine\cash_machine\obj\Debug\cash_machine.pdb
